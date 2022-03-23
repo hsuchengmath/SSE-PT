@@ -1,1 +1,1 @@
-# SSE-PT: Sequential Recommendation Via Personalized Transformer
+# SSE-PT: Sequential Recommendation Via Personalized Transformer (Pytorch)
